@@ -34,6 +34,6 @@ name("Vicky", 24)
 print("\ncase2:")
 name(24, "vicky")
 
-
+  
         
 
